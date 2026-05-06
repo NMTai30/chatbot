@@ -5,7 +5,7 @@ This project implements an intelligent chatbot for supporting Database course le
 - PhoBERT (Vietnamese NLP model)
 - FAISS (Similarity Search Engine)
 - ViT5 (Text Generation Model)
-- 
+  
 #Objectives
 - Build a chatbot capable of answering database-related questions
 - Apply RAG architecture for better accuracy
